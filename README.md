@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AnmolGithubx/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/AnmolGithubx/DSA/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
