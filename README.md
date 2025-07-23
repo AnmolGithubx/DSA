@@ -6,6 +6,7 @@
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [2752-sum-multiples](https://github.com/AnmolGithubx/DSA/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AnmolGithubx/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
