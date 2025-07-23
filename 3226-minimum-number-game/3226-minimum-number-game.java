@@ -11,6 +11,6 @@ class Solution {
             result[idx++] = alice;
         }
         return result;
-        // DONE BY TAKING 2 VARIABLE FOR ALICE AND BOB
+
     }
 }
