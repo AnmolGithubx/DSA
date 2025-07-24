@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AnmolGithubx/DSA/tree/master/0258-add-digits) |
 | [2752-sum-multiples](https://github.com/AnmolGithubx/DSA/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AnmolGithubx/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -38,6 +39,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AnmolGithubx/DSA/tree/master/0258-add-digits) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
 ## Linked List
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AnmolGithubx/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
