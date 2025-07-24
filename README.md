@@ -31,6 +31,7 @@
 | ------- |
 | [0742-to-lower-case](https://github.com/AnmolGithubx/DSA/tree/master/0742-to-lower-case) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolGithubx/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/AnmolGithubx/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AnmolGithubx/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Heap (Priority Queue)
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/AnmolGithubx/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Number Theory
 |  |
 | ------- |
