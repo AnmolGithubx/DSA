@@ -8,6 +8,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AnmolGithubx/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,11 +56,13 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolGithubx/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AnmolGithubx/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Number Theory
 |  |
 | ------- |
