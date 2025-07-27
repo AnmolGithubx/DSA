@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnmolGithubx/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AnmolGithubx/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/AnmolGithubx/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnmolGithubx/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AnmolGithubx/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
