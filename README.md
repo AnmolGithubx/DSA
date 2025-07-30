@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnmolGithubx/DSA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/AnmolGithubx/DSA/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/AnmolGithubx/DSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/AnmolGithubx/DSA/tree/master/0258-add-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AnmolGithubx/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
