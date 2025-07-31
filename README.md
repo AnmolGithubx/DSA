@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnmolGithubx/DSA/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/AnmolGithubx/DSA/tree/master/1127-last-stone-weight) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -19,12 +20,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnmolGithubx/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/AnmolGithubx/DSA/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/AnmolGithubx/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnmolGithubx/DSA/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
 ## Math
