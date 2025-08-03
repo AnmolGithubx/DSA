@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnmolGithubx/DSA/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/AnmolGithubx/DSA/tree/master/1127-last-stone-weight) |
@@ -26,6 +27,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AnmolGithubx/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/AnmolGithubx/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -134,6 +136,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -146,6 +149,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
