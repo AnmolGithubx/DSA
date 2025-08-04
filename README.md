@@ -17,6 +17,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnmolGithubx/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AnmolGithubx/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -37,6 +38,7 @@
 | [0015-3sum](https://github.com/AnmolGithubx/DSA/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [2752-sum-multiples](https://github.com/AnmolGithubx/DSA/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AnmolGithubx/DSA/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AnmolGithubx/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
