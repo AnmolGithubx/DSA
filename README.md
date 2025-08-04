@@ -10,6 +10,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/AnmolGithubx/DSA/tree/master/1127-last-stone-weight) |
+| [1791-richest-customer-wealth](https://github.com/AnmolGithubx/DSA/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AnmolGithubx/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -174,4 +175,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnmolGithubx/DSA/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/AnmolGithubx/DSA/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
