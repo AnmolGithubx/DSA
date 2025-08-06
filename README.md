@@ -14,6 +14,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AnmolGithubx/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/AnmolGithubx/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnmolGithubx/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -33,6 +34,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/AnmolGithubx/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/AnmolGithubx/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolGithubx/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AnmolGithubx/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AnmolGithubx/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/AnmolGithubx/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
