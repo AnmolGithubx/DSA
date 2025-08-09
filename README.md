@@ -50,6 +50,7 @@
 | [0009-palindrome-number](https://github.com/AnmolGithubx/DSA/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/AnmolGithubx/DSA/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/AnmolGithubx/DSA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnmolGithubx/DSA/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AnmolGithubx/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnmolGithubx/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnmolGithubx/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
