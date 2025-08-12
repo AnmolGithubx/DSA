@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/AnmolGithubx/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/AnmolGithubx/DSA/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -178,6 +179,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AnmolGithubx/DSA/tree/master/1791-richest-customer-wealth) |
 ## Queue
 |  |
