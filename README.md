@@ -60,6 +60,7 @@
 | [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnmolGithubx/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AnmolGithubx/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AnmolGithubx/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -166,6 +167,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/AnmolGithubx/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnmolGithubx/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
