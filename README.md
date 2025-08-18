@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnmolGithubx/DSA/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -85,6 +86,7 @@
 | [0043-multiply-strings](https://github.com/AnmolGithubx/DSA/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AnmolGithubx/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/AnmolGithubx/DSA/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/AnmolGithubx/DSA/tree/master/0742-to-lower-case) |
@@ -135,6 +137,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnmolGithubx/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/AnmolGithubx/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AnmolGithubx/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
