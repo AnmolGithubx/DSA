@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/AnmolGithubx/DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/AnmolGithubx/DSA/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/AnmolGithubx/DSA/tree/master/0118-pascals-triangle) |
@@ -93,6 +94,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AnmolGithubx/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/AnmolGithubx/DSA/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AnmolGithubx/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/AnmolGithubx/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/AnmolGithubx/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/AnmolGithubx/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/AnmolGithubx/DSA/tree/master/0657-robot-return-to-origin) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
