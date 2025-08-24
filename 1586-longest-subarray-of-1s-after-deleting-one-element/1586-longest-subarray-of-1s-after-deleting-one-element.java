@@ -7,7 +7,6 @@ class Solution {
                 zeroCount++;
             }
 
-            // agar 1 se jyada zero ho gaye toh window shrink karo
             while (zeroCount > 1) {
                 if (nums[left] == 0) {
                     zeroCount--;
@@ -15,11 +14,9 @@ class Solution {
                 left++;
             }
 
-            // abhi window valid hai (max 1 zero), length nikal lo
             maxLen = Math.max(maxLen, right - left + 1);
         }
 
-        // ek delete karna compulsory hai
         return maxLen - 1;
     }
 }
