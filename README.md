@@ -39,6 +39,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3194-find-words-containing-character](https://github.com/AnmolGithubx/DSA/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AnmolGithubx/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AnmolGithubx/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnmolGithubx/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
