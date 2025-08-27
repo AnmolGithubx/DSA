@@ -44,6 +44,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AnmolGithubx/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnmolGithubx/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnmolGithubx/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AnmolGithubx/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
@@ -259,6 +260,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnmolGithubx/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AnmolGithubx/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnmolGithubx/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Brainteaser
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnmolGithubx/DSA/tree/master/0070-climbing-stairs) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnmolGithubx/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
 |  |
 | ------- |
@@ -284,6 +287,7 @@
 | [1791-richest-customer-wealth](https://github.com/AnmolGithubx/DSA/tree/master/1791-richest-customer-wealth) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AnmolGithubx/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnmolGithubx/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnmolGithubx/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Queue
 |  |
 | ------- |
