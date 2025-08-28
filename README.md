@@ -45,6 +45,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnmolGithubx/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnmolGithubx/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/AnmolGithubx/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AnmolGithubx/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
@@ -71,6 +72,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/AnmolGithubx/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -288,6 +290,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AnmolGithubx/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnmolGithubx/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnmolGithubx/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/AnmolGithubx/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Queue
 |  |
 | ------- |
