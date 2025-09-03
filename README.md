@@ -26,6 +26,7 @@
 | [1127-last-stone-weight](https://github.com/AnmolGithubx/DSA/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/AnmolGithubx/DSA/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnmolGithubx/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/AnmolGithubx/DSA/tree/master/1791-richest-customer-wealth) |
@@ -266,6 +267,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
@@ -304,6 +306,7 @@
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/AnmolGithubx/DSA/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/AnmolGithubx/DSA/tree/master/1791-richest-customer-wealth) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AnmolGithubx/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
