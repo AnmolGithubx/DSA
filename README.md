@@ -19,6 +19,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/AnmolGithubx/DSA/tree/master/0498-diagonal-traverse) |
+| [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -264,6 +265,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
