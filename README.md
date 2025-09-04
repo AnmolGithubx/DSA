@@ -111,6 +111,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AnmolGithubx/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3830-find-closest-person](https://github.com/AnmolGithubx/DSA/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
