@@ -52,6 +52,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnmolGithubx/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnmolGithubx/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AnmolGithubx/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AnmolGithubx/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/AnmolGithubx/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -112,6 +113,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AnmolGithubx/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AnmolGithubx/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/AnmolGithubx/DSA/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -259,6 +261,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnmolGithubx/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/AnmolGithubx/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AnmolGithubx/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AnmolGithubx/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sliding Window
 |  |
 | ------- |
