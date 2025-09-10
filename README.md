@@ -84,6 +84,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnmolGithubx/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnmolGithubx/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AnmolGithubx/DSA/tree/master/0414-third-maximum-number) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
@@ -143,6 +144,7 @@
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AnmolGithubx/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/AnmolGithubx/DSA/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/AnmolGithubx/DSA/tree/master/0742-to-lower-case) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolGithubx/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -208,6 +210,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnmolGithubx/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/AnmolGithubx/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AnmolGithubx/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -271,6 +274,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
