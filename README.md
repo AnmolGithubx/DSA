@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/AnmolGithubx/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/AnmolGithubx/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/AnmolGithubx/DSA/tree/master/0498-diagonal-traverse) |
 | [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
@@ -77,6 +78,7 @@
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/AnmolGithubx/DSA/tree/master/0414-third-maximum-number) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
