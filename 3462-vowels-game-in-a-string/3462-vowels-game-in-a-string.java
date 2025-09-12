@@ -1,13 +1,13 @@
 class Solution {
     public boolean doesAliceWin(String s) {
-        String lowerCaseString = s.toLowerCase();
-        
-        for (char c : lowerCaseString.toCharArray()) {
-
-            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
-                return true;
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            switch (c) {
+                case 'a','e','i','o','u':
+                    return true;
             }
         }
+
         return false;
     }
 }
