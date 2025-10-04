@@ -144,6 +144,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnmolGithubx/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AnmolGithubx/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AnmolGithubx/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AnmolGithubx/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AnmolGithubx/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
@@ -200,6 +201,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnmolGithubx/DSA/tree/master/0020-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolGithubx/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AnmolGithubx/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
