@@ -207,6 +207,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnmolGithubx/DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolGithubx/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AnmolGithubx/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -391,6 +392,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -429,4 +431,12 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/3462-vowels-game-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
