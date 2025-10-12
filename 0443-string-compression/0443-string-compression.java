@@ -1,4 +1,3 @@
-
 class Solution {
     public int compress(char[] chars) {
         int writeIndex = 0, readIndex = 0;
