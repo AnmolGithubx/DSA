@@ -413,6 +413,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnmolGithubx/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -464,6 +465,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnmolGithubx/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -477,6 +479,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnmolGithubx/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
