@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/AnmolGithubx/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AnmolGithubx/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AnmolGithubx/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AnmolGithubx/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AnmolGithubx/DSA/tree/master/0064-minimum-path-sum) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnmolGithubx/DSA/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/AnmolGithubx/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -307,6 +309,7 @@
 | [0037-sudoku-solver](https://github.com/AnmolGithubx/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AnmolGithubx/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AnmolGithubx/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AnmolGithubx/DSA/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
