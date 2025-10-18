@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/AnmolGithubx/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AnmolGithubx/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AnmolGithubx/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/AnmolGithubx/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AnmolGithubx/DSA/tree/master/0064-minimum-path-sum) |
@@ -305,6 +306,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnmolGithubx/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AnmolGithubx/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/AnmolGithubx/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
