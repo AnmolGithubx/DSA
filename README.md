@@ -188,6 +188,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AnmolGithubx/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AnmolGithubx/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AnmolGithubx/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/AnmolGithubx/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AnmolGithubx/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/AnmolGithubx/DSA/tree/master/3194-find-words-containing-character) |
@@ -247,6 +248,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolGithubx/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AnmolGithubx/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AnmolGithubx/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/AnmolGithubx/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -285,6 +287,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/AnmolGithubx/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AnmolGithubx/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnmolGithubx/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnmolGithubx/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
