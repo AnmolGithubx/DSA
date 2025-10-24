@@ -140,6 +140,7 @@
 | [1448-maximum-69-number](https://github.com/AnmolGithubx/DSA/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AnmolGithubx/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/AnmolGithubx/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -271,6 +272,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AnmolGithubx/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AnmolGithubx/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AnmolGithubx/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Number Theory
 |  |
@@ -287,6 +289,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AnmolGithubx/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AnmolGithubx/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnmolGithubx/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -330,6 +333,7 @@
 | [0047-permutations-ii](https://github.com/AnmolGithubx/DSA/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -429,6 +433,7 @@
 | [0383-ransom-note](https://github.com/AnmolGithubx/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Depth-First Search
 |  |
 | ------- |
