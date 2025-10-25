@@ -139,6 +139,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AnmolGithubx/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/AnmolGithubx/DSA/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1610-xor-operation-in-an-array) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/AnmolGithubx/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AnmolGithubx/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
