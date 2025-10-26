@@ -49,6 +49,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/AnmolGithubx/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AnmolGithubx/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/AnmolGithubx/DSA/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AnmolGithubx/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AnmolGithubx/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -216,6 +217,7 @@
 | [0498-diagonal-traverse](https://github.com/AnmolGithubx/DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/AnmolGithubx/DSA/tree/master/0657-robot-return-to-origin) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AnmolGithubx/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/AnmolGithubx/DSA/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AnmolGithubx/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnmolGithubx/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -273,6 +275,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AnmolGithubx/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AnmolGithubx/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AnmolGithubx/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2169-simple-bank-system](https://github.com/AnmolGithubx/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Number Theory
@@ -539,4 +542,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnmolGithubx/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/AnmolGithubx/DSA/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
