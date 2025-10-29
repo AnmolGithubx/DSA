@@ -156,6 +156,7 @@
 | [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/AnmolGithubx/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AnmolGithubx/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnmolGithubx/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/AnmolGithubx/DSA/tree/master/3830-find-closest-person) |
@@ -354,6 +355,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnmolGithubx/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/AnmolGithubx/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AnmolGithubx/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/AnmolGithubx/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AnmolGithubx/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sliding Window
 |  |
