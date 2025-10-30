@@ -16,6 +16,7 @@
 | [0064-minimum-path-sum](https://github.com/AnmolGithubx/DSA/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/AnmolGithubx/DSA/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/AnmolGithubx/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnmolGithubx/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -338,6 +339,7 @@
 | [0046-permutations](https://github.com/AnmolGithubx/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnmolGithubx/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/AnmolGithubx/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -345,6 +347,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
