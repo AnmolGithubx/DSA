@@ -337,6 +337,7 @@
 | [0039-combination-sum](https://github.com/AnmolGithubx/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AnmolGithubx/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnmolGithubx/DSA/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/AnmolGithubx/DSA/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
