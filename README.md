@@ -36,6 +36,7 @@
 | [0485-max-consecutive-ones](https://github.com/AnmolGithubx/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/AnmolGithubx/DSA/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/AnmolGithubx/DSA/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
@@ -118,6 +119,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnmolGithubx/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AnmolGithubx/DSA/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/AnmolGithubx/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -294,6 +296,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/AnmolGithubx/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AnmolGithubx/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -378,6 +381,7 @@
 | [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnmolGithubx/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1610-xor-operation-in-an-array) |
