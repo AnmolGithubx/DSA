@@ -49,6 +49,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AnmolGithubx/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnmolGithubx/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AnmolGithubx/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/AnmolGithubx/DSA/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnmolGithubx/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
