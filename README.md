@@ -518,6 +518,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/AnmolGithubx/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -577,6 +578,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnmolGithubx/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/AnmolGithubx/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
