@@ -44,6 +44,7 @@
 | [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/AnmolGithubx/DSA/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/AnmolGithubx/DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/AnmolGithubx/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -332,6 +333,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
+| [0997-find-the-town-judge](https://github.com/AnmolGithubx/DSA/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/AnmolGithubx/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AnmolGithubx/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnmolGithubx/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -673,6 +675,7 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AnmolGithubx/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0997-find-the-town-judge](https://github.com/AnmolGithubx/DSA/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
