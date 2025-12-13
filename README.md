@@ -98,6 +98,7 @@
 | [3531-count-covered-buildings](https://github.com/AnmolGithubx/DSA/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AnmolGithubx/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/AnmolGithubx/DSA/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/AnmolGithubx/DSA/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnmolGithubx/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AnmolGithubx/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/AnmolGithubx/DSA/tree/master/3623-count-number-of-trapezoids-i) |
@@ -156,6 +157,7 @@
 | [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/AnmolGithubx/DSA/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/AnmolGithubx/DSA/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/AnmolGithubx/DSA/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AnmolGithubx/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -253,6 +255,7 @@
 | [3312-number-of-changing-keys](https://github.com/AnmolGithubx/DSA/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AnmolGithubx/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3606-coupon-code-validator](https://github.com/AnmolGithubx/DSA/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnmolGithubx/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
@@ -355,6 +358,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AnmolGithubx/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/AnmolGithubx/DSA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/AnmolGithubx/DSA/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/AnmolGithubx/DSA/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnmolGithubx/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/AnmolGithubx/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/AnmolGithubx/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
