@@ -186,6 +186,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/AnmolGithubx/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AnmolGithubx/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AnmolGithubx/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AnmolGithubx/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AnmolGithubx/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -245,6 +246,7 @@
 | [1894-merge-strings-alternately](https://github.com/AnmolGithubx/DSA/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AnmolGithubx/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AnmolGithubx/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AnmolGithubx/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/AnmolGithubx/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AnmolGithubx/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AnmolGithubx/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -491,6 +493,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnmolGithubx/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AnmolGithubx/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AnmolGithubx/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AnmolGithubx/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AnmolGithubx/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnmolGithubx/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
