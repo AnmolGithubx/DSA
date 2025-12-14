@@ -21,6 +21,7 @@
 | [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/AnmolGithubx/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AnmolGithubx/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/AnmolGithubx/DSA/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnmolGithubx/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AnmolGithubx/DSA/tree/master/0198-house-robber) |
@@ -487,6 +488,7 @@
 | [0070-climbing-stairs](https://github.com/AnmolGithubx/DSA/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/AnmolGithubx/DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/AnmolGithubx/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AnmolGithubx/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/AnmolGithubx/DSA/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/AnmolGithubx/DSA/tree/master/0474-ones-and-zeroes) |
 | [0867-new-21-game](https://github.com/AnmolGithubx/DSA/tree/master/0867-new-21-game) |
