@@ -67,6 +67,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/AnmolGithubx/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AnmolGithubx/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/AnmolGithubx/DSA/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AnmolGithubx/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AnmolGithubx/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -154,6 +155,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/AnmolGithubx/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnmolGithubx/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/AnmolGithubx/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AnmolGithubx/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AnmolGithubx/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -276,6 +278,7 @@
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/AnmolGithubx/DSA/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/AnmolGithubx/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnmolGithubx/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
@@ -482,6 +485,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnmolGithubx/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AnmolGithubx/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
@@ -502,6 +506,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnmolGithubx/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AnmolGithubx/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AnmolGithubx/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AnmolGithubx/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AnmolGithubx/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
