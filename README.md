@@ -85,6 +85,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/AnmolGithubx/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/AnmolGithubx/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AnmolGithubx/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AnmolGithubx/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/AnmolGithubx/DSA/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
@@ -160,6 +161,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/AnmolGithubx/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AnmolGithubx/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AnmolGithubx/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnmolGithubx/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnmolGithubx/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -338,6 +340,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/AnmolGithubx/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AnmolGithubx/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AnmolGithubx/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AnmolGithubx/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnmolGithubx/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AnmolGithubx/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
