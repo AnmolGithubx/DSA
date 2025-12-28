@@ -70,6 +70,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/AnmolGithubx/DSA/tree/master/2058-concatenation-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AnmolGithubx/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AnmolGithubx/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AnmolGithubx/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -162,6 +163,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnmolGithubx/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/AnmolGithubx/DSA/tree/master/2092-find-all-people-with-secret) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AnmolGithubx/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AnmolGithubx/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/AnmolGithubx/DSA/tree/master/2402-meeting-rooms-iii) |
@@ -378,6 +380,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/AnmolGithubx/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/AnmolGithubx/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AnmolGithubx/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2169-simple-bank-system](https://github.com/AnmolGithubx/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AnmolGithubx/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -406,6 +409,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AnmolGithubx/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -447,6 +451,7 @@
 | [0326-power-of-three](https://github.com/AnmolGithubx/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AnmolGithubx/DSA/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
