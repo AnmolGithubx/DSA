@@ -259,6 +259,7 @@
 | [0474-ones-and-zeroes](https://github.com/AnmolGithubx/DSA/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/AnmolGithubx/DSA/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/AnmolGithubx/DSA/tree/master/0742-to-lower-case) |
+| [0756-pyramid-transition-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1006-vowel-spellchecker](https://github.com/AnmolGithubx/DSA/tree/master/1006-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AnmolGithubx/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AnmolGithubx/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -373,6 +374,7 @@
 | [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [0997-find-the-town-judge](https://github.com/AnmolGithubx/DSA/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/AnmolGithubx/DSA/tree/master/1006-vowel-spellchecker) |
@@ -467,6 +469,7 @@
 | [0077-combinations](https://github.com/AnmolGithubx/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
+| [0756-pyramid-transition-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
@@ -480,6 +483,7 @@
 | [0371-sum-of-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnmolGithubx/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1610-xor-operation-in-an-array) |
