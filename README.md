@@ -44,6 +44,7 @@
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AnmolGithubx/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/AnmolGithubx/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/AnmolGithubx/DSA/tree/master/0997-find-the-town-judge) |
@@ -192,6 +193,7 @@
 | [0326-power-of-three](https://github.com/AnmolGithubx/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0371-sum-of-two-integers) |
+| [0840-magic-squares-in-grid](https://github.com/AnmolGithubx/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/AnmolGithubx/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/AnmolGithubx/DSA/tree/master/1013-fibonacci-number) |
@@ -375,6 +377,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/AnmolGithubx/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
 | [0997-find-the-town-judge](https://github.com/AnmolGithubx/DSA/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/AnmolGithubx/DSA/tree/master/1006-vowel-spellchecker) |
@@ -573,6 +576,7 @@
 | [0200-number-of-islands](https://github.com/AnmolGithubx/DSA/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/AnmolGithubx/DSA/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/AnmolGithubx/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1020-number-of-enclaves](https://github.com/AnmolGithubx/DSA/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
