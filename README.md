@@ -69,6 +69,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/AnmolGithubx/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/AnmolGithubx/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnmolGithubx/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/AnmolGithubx/DSA/tree/master/2058-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -517,6 +518,7 @@
 | [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnmolGithubx/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AnmolGithubx/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -583,6 +585,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/AnmolGithubx/DSA/tree/master/1791-richest-customer-wealth) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnmolGithubx/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AnmolGithubx/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AnmolGithubx/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnmolGithubx/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -622,6 +625,7 @@
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AnmolGithubx/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/AnmolGithubx/DSA/tree/master/1020-number-of-enclaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnmolGithubx/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/AnmolGithubx/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/AnmolGithubx/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Bucket Sort
@@ -719,6 +723,7 @@
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AnmolGithubx/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/AnmolGithubx/DSA/tree/master/1020-number-of-enclaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnmolGithubx/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/AnmolGithubx/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Binary Search Tree
 |  |
@@ -732,6 +737,7 @@
 | [0130-surrounded-regions](https://github.com/AnmolGithubx/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AnmolGithubx/DSA/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/AnmolGithubx/DSA/tree/master/1020-number-of-enclaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/AnmolGithubx/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/AnmolGithubx/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Combinatorics
 |  |
