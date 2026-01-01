@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AnmolGithubx/DSA/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/AnmolGithubx/DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/AnmolGithubx/DSA/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
@@ -188,6 +189,7 @@
 | [0009-palindrome-number](https://github.com/AnmolGithubx/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AnmolGithubx/DSA/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/AnmolGithubx/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AnmolGithubx/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnmolGithubx/DSA/tree/master/0258-add-digits) |
