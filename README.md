@@ -48,6 +48,7 @@
 | [0840-magic-squares-in-grid](https://github.com/AnmolGithubx/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AnmolGithubx/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/AnmolGithubx/DSA/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/AnmolGithubx/DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/AnmolGithubx/DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -387,6 +388,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/AnmolGithubx/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/AnmolGithubx/DSA/tree/master/0900-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AnmolGithubx/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/AnmolGithubx/DSA/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/AnmolGithubx/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AnmolGithubx/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
