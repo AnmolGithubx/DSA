@@ -1,25 +1,47 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    private List<Long> subtreeSums = new ArrayList<>();
-
-    public int maxProduct(TreeNode root) {
-        long totalSum = calculateSubtreeSum(root);
-        long maxProd = 0;
-        
-        for (long s : subtreeSums) {
-            long currentProd = s * (totalSum - s);
-            if (currentProd > maxProd) {
-                maxProd = currentProd;
-            }
+    static long sum;
+    static long max;
+    static int MODULO = 1000000007;
+    // static long MODULO = 1000000007;
+    private static long getSum(TreeNode root){
+        if(root == null){
+            return 0;
         }
-        
-        return (int) (maxProd % 1000000007);
+        return root.val + getSum(root.left) + getSum(root.right);
     }
+    private static long getMaxProduct(TreeNode root){
+        if(root == null){
+            return 0;
+        }
+        long left = getMaxProduct(root.left);
+        long right = getMaxProduct(root.right);
 
-    private long calculateSubtreeSum(TreeNode node) {
-        if (node == null) return 0;
-        
-        long currentSum = node.val + calculateSubtreeSum(node.left) + calculateSubtreeSum(node.right);
-        subtreeSums.add(currentSum);
-        return currentSum;
+        long t1 = left + right + root.val;
+        long temp = (sum-t1) * t1;
+        if(temp > max){
+            max = temp;
+        }
+        return t1;
+    }
+    public static int maxProduct(TreeNode root) {
+        max = 0;
+        sum = getSum(root);
+        getMaxProduct(root);
+        return (int)(max%MODULO);
     }
 }
