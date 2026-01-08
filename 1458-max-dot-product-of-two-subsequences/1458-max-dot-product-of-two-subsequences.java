@@ -1,20 +1,27 @@
-import java.util.Arrays;
-
 class Solution {
     public int maxDotProduct(int[] nums1, int[] nums2) {
-        int m = nums1.length;
-        int n = nums2.length;
-        int[][] dp = new int[m + 1][n + 1];
-        for (int[] row : dp) {
-            Arrays.fill(row, Integer.MIN_VALUE / 2);
-        }
-        for (int i = 1; i <= m; ++i) {
-            for (int j = 1; j <= n; ++j) {
+        int n = nums1.length, m = nums2.length;
+        int NEG = -1_000_000_000;
+
+        int[] dp = new int[m + 1];
+        for (int j = 0; j <= m; j++) dp[j] = NEG;
+
+        for (int i = 1; i <= n; i++) {
+            int[] ndp = new int[m + 1];
+            for (int j = 0; j <= m; j++) ndp[j] = NEG;
+
+            for (int j = 1; j <= m; j++) {
                 int prod = nums1[i - 1] * nums2[j - 1];
-                int take = Math.max(0, dp[i - 1][j - 1]) + prod;
-                dp[i][j] = Math.max(dp[i - 1][j], Math.max(dp[i][j - 1], take));
+                int take = dp[j - 1] == NEG ? prod : Math.max(prod, dp[j - 1] + prod);
+
+                int best = take;
+                best = Math.max(best, dp[j]);
+                best = Math.max(best, ndp[j - 1]);
+
+                ndp[j] = best;
             }
+            dp = ndp;
         }
-        return dp[m][n];
+        return dp[m];
     }
 }
