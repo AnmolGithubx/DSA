@@ -271,6 +271,7 @@
 | [0443-string-compression](https://github.com/AnmolGithubx/DSA/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/AnmolGithubx/DSA/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/AnmolGithubx/DSA/tree/master/0657-robot-return-to-origin) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AnmolGithubx/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/AnmolGithubx/DSA/tree/master/0742-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1006-vowel-spellchecker](https://github.com/AnmolGithubx/DSA/tree/master/1006-vowel-spellchecker) |
@@ -548,6 +549,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AnmolGithubx/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/AnmolGithubx/DSA/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/AnmolGithubx/DSA/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AnmolGithubx/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0867-new-21-game](https://github.com/AnmolGithubx/DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/AnmolGithubx/DSA/tree/master/1013-fibonacci-number) |
