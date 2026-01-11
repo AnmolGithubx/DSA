@@ -21,6 +21,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/AnmolGithubx/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/AnmolGithubx/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnmolGithubx/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/AnmolGithubx/DSA/tree/master/0130-surrounded-regions) |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnmolGithubx/DSA/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/AnmolGithubx/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -544,6 +546,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AnmolGithubx/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/AnmolGithubx/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AnmolGithubx/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/AnmolGithubx/DSA/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/AnmolGithubx/DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/AnmolGithubx/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnmolGithubx/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -593,6 +596,7 @@
 | [0064-minimum-path-sum](https://github.com/AnmolGithubx/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/AnmolGithubx/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/AnmolGithubx/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AnmolGithubx/DSA/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/AnmolGithubx/DSA/tree/master/0498-diagonal-traverse) |
@@ -680,6 +684,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AnmolGithubx/DSA/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AnmolGithubx/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AnmolGithubx/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
