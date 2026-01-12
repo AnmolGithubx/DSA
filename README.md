@@ -56,6 +56,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/AnmolGithubx/DSA/tree/master/1020-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/AnmolGithubx/DSA/tree/master/1127-last-stone-weight) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AnmolGithubx/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/AnmolGithubx/DSA/tree/master/1293-three-consecutive-odds) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/AnmolGithubx/DSA/tree/master/1390-four-divisors) |
@@ -209,6 +210,7 @@
 | [1013-fibonacci-number](https://github.com/AnmolGithubx/DSA/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/AnmolGithubx/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AnmolGithubx/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AnmolGithubx/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/AnmolGithubx/DSA/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AnmolGithubx/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AnmolGithubx/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -691,6 +693,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/AnmolGithubx/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnmolGithubx/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnmolGithubx/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/AnmolGithubx/DSA/tree/master/3623-count-number-of-trapezoids-i) |
