@@ -1,69 +1,146 @@
 import java.util.*;
 
 class Solution {
+    static final class Event {
+        final long y;
+        final int l, r;
+        final int delta;
+        Event(long y, int l, int r, int delta) { this.y = y; this.l = l; this.r = r; this.delta = delta; }
+    }
+
+    static final class SegTree {
+        final long[] xs;
+        final long[] cover;
+        final int[] cnt;
+        SegTree(long[] xs) {
+            this.xs = xs;
+            int n = Math.max(1, xs.length - 1);
+            this.cover = new long[n << 2];
+            this.cnt = new int[n << 2];
+        }
+        long covered() { return cover[1]; }
+        void update(int l, int r, int delta) {
+            if (l >= r) return;
+            update(1, 0, xs.length - 1, l, r, delta);
+        }
+        private void update(int node, int L, int R, int ql, int qr, int delta) {
+            if (qr <= L || R <= ql) return;
+            if (ql <= L && R <= qr) {
+                cnt[node] += delta;
+                pushUp(node, L, R);
+                return;
+            }
+            int mid = (L + R) >>> 1;
+            update(node << 1, L, mid, ql, qr, delta);
+            update(node << 1 | 1, mid, R, ql, qr, delta);
+            pushUp(node, L, R);
+        }
+        private void pushUp(int node, int L, int R) {
+            if (cnt[node] > 0) {
+                cover[node] = xs[R] - xs[L];
+            } else if (L + 1 == R) {
+                cover[node] = 0;
+            } else {
+                cover[node] = cover[node << 1] + cover[node << 1 | 1];
+            }
+        }
+    }
+
     public double separateSquares(int[][] squares) {
         int n = squares.length;
-        // Collect all unique Y coordinates to define horizontal strips
-        TreeSet<Integer> ySet = new TreeSet<>();
+        if (n == 0) return -1;
+
+        long[] xs = new long[2 * n];
+        int p = 0;
         for (int[] s : squares) {
-            ySet.add(s[1]);
-            ySet.add(s[1] + s[2]);
+            long x1 = s[0];
+            long x2 = (long) s[0] + s[2];
+            xs[p++] = x1;
+            xs[p++] = x2;
         }
-        List<Integer> distinctY = new ArrayList<>(ySet);
-        int m = distinctY.size();
-        
-        // Map Y intervals to events (start/end of squares on the X-axis)
-        // This is the "Sweep Line" moving along the Y-axis
-        List<int[]>[] eventsAtY = new ArrayList[m];
-        for (int i = 0; i < m; i++) eventsAtY[i] = new ArrayList<>();
-        
-        Map<Integer, Integer> yToIdx = new HashMap<>();
-        for (int i = 0; i < m; i++) yToIdx.put(distinctY.get(i), i);
-        
+        Arrays.sort(xs);
+        int m = 1;
+        for (int i = 1; i < xs.length; i++) {
+            if (xs[i] != xs[m - 1]) xs[m++] = xs[i];
+        }
+        xs = Arrays.copyOf(xs, m);
+        if (xs.length < 2) {
+            long minY = Long.MAX_VALUE;
+            for (int[] s : squares) minY = Math.min(minY, (long) s[1]);
+            return (double) minY;
+        }
+
+        Event[] events = new Event[2 * n];
+        int e = 0;
         for (int[] s : squares) {
-            int y1 = yToIdx.get(s[1]);
-            int y2 = yToIdx.get(s[1] + s[2]);
-            // Square contributes to all strips between its bottom and top
-            for (int i = y1; i < y2; i++) {
-                eventsAtY[i].add(new int[]{s[0], 1}); // Start x
-                eventsAtY[i].add(new int[]{s[0] + s[2], -1}); // End x
+            long x1 = s[0];
+            long x2 = (long) s[0] + s[2];
+            long y1 = s[1];
+            long y2 = (long) s[1] + s[2];
+            int l = lowerBound(xs, x1);
+            int r = lowerBound(xs, x2);
+            if (l < r) {
+                events[e++] = new Event(y1, l, r, +1);
+                events[e++] = new Event(y2, l, r, -1);
             }
         }
+        if (e == 0) return -1;
+        events = Arrays.copyOf(events, e);
+        Arrays.sort(events, (a, b) -> Long.compare(a.y, b.y));
 
-        double totalArea = 0;
-        double[] stripAreas = new double[m - 1];
+        SegTree st = new SegTree(xs);
 
-        // For each horizontal strip, calculate the union of x-segments
-        for (int i = 0; i < m - 1; i++) {
-            List<int[]> xEvents = eventsAtY[i];
-            Collections.sort(xEvents, (a, b) -> a[0] - b[0]);
-            
-            long currentXUnion = 0;
-            int count = 0;
-            int lastX = 0;
-            for (int[] e : xEvents) {
-                if (count > 0) currentXUnion += (e[0] - lastX);
-                count += e[1];
-                lastX = e[0];
+        long[] sY = new long[e];
+        long[] eY = new long[e];
+        long[] base = new long[e];
+        int gi = 0;
+
+        long area = 0;
+        long prevY = events[0].y;
+        long baseLen = 0;
+        int i = 0;
+        while (i < e) {
+            long currY = events[i].y;
+            long dy = currY - prevY;
+            if (dy != 0 && baseLen != 0) {
+                area += baseLen * dy;
+                sY[gi] = prevY;
+                eY[gi] = currY;
+                base[gi] = baseLen;
+                gi++;
             }
-            stripAreas[i] = currentXUnion * (double)(distinctY.get(i + 1) - distinctY.get(i));
-            totalArea += stripAreas[i];
+            int j = i;
+            while (j < e && events[j].y == currY) {
+                st.update(events[j].l, events[j].r, events[j].delta);
+                j++;
+            }
+            baseLen = st.covered();
+            prevY = currY;
+            i = j;
         }
 
-        // Find the strip where the cumulative area reaches half of totalArea
-        double target = totalArea / 2.0;
-        double currentSum = 0;
-        for (int i = 0; i < m - 1; i++) {
-            if (currentSum + stripAreas[i] >= target - 1e-9) {
-                // The line is inside this strip [distinctY[i], distinctY[i+1]]
-                double remainingAreaNeeded = target - currentSum;
-                double stripHeight = distinctY.get(i + 1) - distinctY.get(i);
-                double stripWidth = stripAreas[i] / stripHeight;
-                return distinctY.get(i) + (remainingAreaNeeded / stripWidth);
+        if (area == 0) return prevY;
+        double target = area / 2.0;
+        long pref = 0;
+        for (int k = 0; k < gi; k++) {
+            long a = base[k] * (eY[k] - sY[k]);
+            if (pref + a < target) {
+                pref += a;
+            } else {
+                double remain = target - pref;
+                return sY[k] + remain / base[k];
             }
-            currentSum += stripAreas[i];
         }
+        return prevY;
+    }
 
-        return distinctY.get(m - 1);
+    private static int lowerBound(long[] a, long key) {
+        int lo = 0, hi = a.length;
+        while (lo < hi) {
+            int mid = (lo + hi) >>> 1;
+            if (a[mid] < key) lo = mid + 1;
+            else hi = mid;
+        }
+        return lo;
     }
 }
