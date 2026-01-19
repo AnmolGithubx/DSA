@@ -58,6 +58,7 @@
 | [1020-number-of-enclaves](https://github.com/AnmolGithubx/DSA/tree/master/1020-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/AnmolGithubx/DSA/tree/master/1127-last-stone-weight) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnmolGithubx/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AnmolGithubx/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/AnmolGithubx/DSA/tree/master/1293-three-consecutive-odds) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/AnmolGithubx/DSA/tree/master/1390-four-divisors) |
@@ -464,6 +465,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnmolGithubx/DSA/tree/master/0238-product-of-array-except-self) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AnmolGithubx/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/AnmolGithubx/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AnmolGithubx/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/AnmolGithubx/DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -548,6 +550,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AnmolGithubx/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnmolGithubx/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/AnmolGithubx/DSA/tree/master/0792-binary-search) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AnmolGithubx/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AnmolGithubx/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -619,6 +622,7 @@
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/AnmolGithubx/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1020-number-of-enclaves](https://github.com/AnmolGithubx/DSA/tree/master/1020-number-of-enclaves) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AnmolGithubx/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnmolGithubx/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
