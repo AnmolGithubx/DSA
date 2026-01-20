@@ -40,6 +40,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/AnmolGithubx/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AnmolGithubx/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AnmolGithubx/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/AnmolGithubx/DSA/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/AnmolGithubx/DSA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
@@ -362,6 +363,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnmolGithubx/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/AnmolGithubx/DSA/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AnmolGithubx/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnmolGithubx/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -405,6 +407,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AnmolGithubx/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/AnmolGithubx/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/AnmolGithubx/DSA/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/AnmolGithubx/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -707,6 +710,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AnmolGithubx/DSA/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/AnmolGithubx/DSA/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AnmolGithubx/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AnmolGithubx/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AnmolGithubx/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
