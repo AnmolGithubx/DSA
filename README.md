@@ -113,6 +113,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnmolGithubx/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnmolGithubx/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AnmolGithubx/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/AnmolGithubx/DSA/tree/master/3321-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AnmolGithubx/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnmolGithubx/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -535,6 +536,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/AnmolGithubx/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AnmolGithubx/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AnmolGithubx/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AnmolGithubx/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AnmolGithubx/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sliding Window
