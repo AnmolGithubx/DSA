@@ -123,6 +123,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AnmolGithubx/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AnmolGithubx/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnmolGithubx/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AnmolGithubx/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3531-count-covered-buildings](https://github.com/AnmolGithubx/DSA/tree/master/3531-count-covered-buildings) |
@@ -324,6 +325,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/AnmolGithubx/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnmolGithubx/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
 |  |
@@ -344,6 +346,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/AnmolGithubx/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3226-minimum-number-game](https://github.com/AnmolGithubx/DSA/tree/master/3226-minimum-number-game) |
 | [3433-count-mentions-per-user](https://github.com/AnmolGithubx/DSA/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnmolGithubx/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
@@ -356,6 +359,7 @@
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/AnmolGithubx/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/AnmolGithubx/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -430,6 +434,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AnmolGithubx/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AnmolGithubx/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/AnmolGithubx/DSA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/AnmolGithubx/DSA/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/AnmolGithubx/DSA/tree/master/3606-coupon-code-validator) |
@@ -834,4 +839,12 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/AnmolGithubx/DSA/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
