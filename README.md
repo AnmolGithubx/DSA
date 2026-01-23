@@ -281,6 +281,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AnmolGithubx/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AnmolGithubx/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -517,6 +518,7 @@
 | [0077-combinations](https://github.com/AnmolGithubx/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AnmolGithubx/DSA/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnmolGithubx/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -677,6 +679,7 @@
 | [0226-invert-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AnmolGithubx/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -750,6 +753,7 @@
 | [0226-invert-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnmolGithubx/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -772,6 +776,7 @@
 | [0226-invert-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnmolGithubx/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
