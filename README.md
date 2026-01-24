@@ -687,6 +687,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AnmolGithubx/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -763,6 +764,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnmolGithubx/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -788,6 +790,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnmolGithubx/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -806,6 +809,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AnmolGithubx/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AnmolGithubx/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AnmolGithubx/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
