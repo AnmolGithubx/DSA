@@ -81,6 +81,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/AnmolGithubx/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AnmolGithubx/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AnmolGithubx/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnmolGithubx/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/AnmolGithubx/DSA/tree/master/2058-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -187,6 +188,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnmolGithubx/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AnmolGithubx/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnmolGithubx/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/AnmolGithubx/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/AnmolGithubx/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -557,6 +559,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnmolGithubx/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0867-new-21-game](https://github.com/AnmolGithubx/DSA/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnmolGithubx/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnmolGithubx/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AnmolGithubx/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnmolGithubx/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
