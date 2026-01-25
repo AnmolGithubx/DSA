@@ -692,6 +692,7 @@
 | [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AnmolGithubx/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -769,6 +770,7 @@
 | [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnmolGithubx/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -813,6 +815,7 @@
 | [0200-number-of-islands](https://github.com/AnmolGithubx/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AnmolGithubx/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
