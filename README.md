@@ -58,6 +58,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/AnmolGithubx/DSA/tree/master/1020-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/AnmolGithubx/DSA/tree/master/1127-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/AnmolGithubx/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AnmolGithubx/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AnmolGithubx/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/AnmolGithubx/DSA/tree/master/1293-three-consecutive-odds) |
@@ -186,6 +187,7 @@
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/AnmolGithubx/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AnmolGithubx/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/AnmolGithubx/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnmolGithubx/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AnmolGithubx/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnmolGithubx/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
