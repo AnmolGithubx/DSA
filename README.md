@@ -99,6 +99,7 @@
 | [2402-meeting-rooms-iii](https://github.com/AnmolGithubx/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AnmolGithubx/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AnmolGithubx/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnmolGithubx/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AnmolGithubx/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/AnmolGithubx/DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -441,6 +442,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/AnmolGithubx/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AnmolGithubx/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/AnmolGithubx/DSA/tree/master/2402-meeting-rooms-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnmolGithubx/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AnmolGithubx/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AnmolGithubx/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnmolGithubx/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -563,6 +565,7 @@
 | [0867-new-21-game](https://github.com/AnmolGithubx/DSA/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnmolGithubx/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnmolGithubx/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnmolGithubx/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AnmolGithubx/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnmolGithubx/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
