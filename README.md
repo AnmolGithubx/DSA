@@ -712,6 +712,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnmolGithubx/DSA/tree/master/0617-merge-two-binary-trees) |
@@ -791,6 +792,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnmolGithubx/DSA/tree/master/0617-merge-two-binary-trees) |
@@ -819,6 +821,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/AnmolGithubx/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnmolGithubx/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnmolGithubx/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AnmolGithubx/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnmolGithubx/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -853,6 +856,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnmolGithubx/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/AnmolGithubx/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnmolGithubx/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Union Find
 |  |
