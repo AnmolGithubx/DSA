@@ -161,6 +161,7 @@
 | [0125-valid-palindrome](https://github.com/AnmolGithubx/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AnmolGithubx/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnmolGithubx/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AnmolGithubx/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AnmolGithubx/DSA/tree/master/0283-move-zeroes) |
@@ -371,6 +372,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/AnmolGithubx/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnmolGithubx/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AnmolGithubx/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AnmolGithubx/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/AnmolGithubx/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AnmolGithubx/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -417,6 +419,7 @@
 | [0037-sudoku-solver](https://github.com/AnmolGithubx/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AnmolGithubx/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/AnmolGithubx/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AnmolGithubx/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
