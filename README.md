@@ -32,6 +32,7 @@
 | [0198-house-robber](https://github.com/AnmolGithubx/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnmolGithubx/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AnmolGithubx/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/AnmolGithubx/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnmolGithubx/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/AnmolGithubx/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -184,6 +185,7 @@
 | [0047-permutations-ii](https://github.com/AnmolGithubx/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AnmolGithubx/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnmolGithubx/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnmolGithubx/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -230,6 +232,7 @@
 | [0202-happy-number](https://github.com/AnmolGithubx/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnmolGithubx/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/AnmolGithubx/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AnmolGithubx/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0371-sum-of-two-integers) |
@@ -425,6 +428,7 @@
 | [0202-happy-number](https://github.com/AnmolGithubx/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AnmolGithubx/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AnmolGithubx/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnmolGithubx/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnmolGithubx/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -553,6 +557,7 @@
 | [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AnmolGithubx/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AnmolGithubx/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0371-sum-of-two-integers) |
@@ -588,6 +593,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AnmolGithubx/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnmolGithubx/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/AnmolGithubx/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnmolGithubx/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnmolGithubx/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnmolGithubx/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
