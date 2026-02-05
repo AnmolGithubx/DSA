@@ -27,6 +27,7 @@
 | [0118-pascals-triangle](https://github.com/AnmolGithubx/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnmolGithubx/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/AnmolGithubx/DSA/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/AnmolGithubx/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AnmolGithubx/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnmolGithubx/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AnmolGithubx/DSA/tree/master/0198-house-robber) |
@@ -555,6 +556,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AnmolGithubx/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/AnmolGithubx/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AnmolGithubx/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AnmolGithubx/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnmolGithubx/DSA/tree/master/0268-missing-number) |
