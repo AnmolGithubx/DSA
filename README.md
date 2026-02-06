@@ -30,6 +30,7 @@
 | [0136-single-number](https://github.com/AnmolGithubx/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AnmolGithubx/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnmolGithubx/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AnmolGithubx/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AnmolGithubx/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnmolGithubx/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AnmolGithubx/DSA/tree/master/0238-product-of-array-except-self) |
@@ -186,6 +187,7 @@
 | [0016-3sum-closest](https://github.com/AnmolGithubx/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/AnmolGithubx/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/AnmolGithubx/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnmolGithubx/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -428,6 +430,7 @@
 | [0049-group-anagrams](https://github.com/AnmolGithubx/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AnmolGithubx/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnmolGithubx/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/AnmolGithubx/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AnmolGithubx/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AnmolGithubx/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AnmolGithubx/DSA/tree/master/0242-valid-anagram) |
@@ -518,6 +521,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnmolGithubx/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AnmolGithubx/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AnmolGithubx/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AnmolGithubx/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -701,6 +705,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnmolGithubx/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AnmolGithubx/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnmolGithubx/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnmolGithubx/DSA/tree/master/0387-first-unique-character-in-a-string) |
