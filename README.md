@@ -146,6 +146,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AnmolGithubx/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/AnmolGithubx/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/AnmolGithubx/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/AnmolGithubx/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AnmolGithubx/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/AnmolGithubx/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AnmolGithubx/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -220,6 +221,7 @@
 | [3433-count-mentions-per-user](https://github.com/AnmolGithubx/DSA/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/AnmolGithubx/DSA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/AnmolGithubx/DSA/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/AnmolGithubx/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AnmolGithubx/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -589,6 +591,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnmolGithubx/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AnmolGithubx/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnmolGithubx/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/AnmolGithubx/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
