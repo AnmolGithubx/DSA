@@ -26,6 +26,7 @@
 | [0085-maximal-rectangle](https://github.com/AnmolGithubx/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/AnmolGithubx/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnmolGithubx/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnmolGithubx/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AnmolGithubx/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AnmolGithubx/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AnmolGithubx/DSA/tree/master/0152-maximum-product-subarray) |
@@ -630,6 +631,7 @@
 | [0097-interleaving-string](https://github.com/AnmolGithubx/DSA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/AnmolGithubx/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnmolGithubx/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnmolGithubx/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AnmolGithubx/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnmolGithubx/DSA/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/AnmolGithubx/DSA/tree/master/0474-ones-and-zeroes) |
