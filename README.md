@@ -236,6 +236,7 @@
 | [0009-palindrome-number](https://github.com/AnmolGithubx/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AnmolGithubx/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AnmolGithubx/DSA/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/AnmolGithubx/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AnmolGithubx/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AnmolGithubx/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnmolGithubx/DSA/tree/master/0202-happy-number) |
@@ -630,6 +631,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnmolGithubx/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AnmolGithubx/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/AnmolGithubx/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/AnmolGithubx/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AnmolGithubx/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AnmolGithubx/DSA/tree/master/0085-maximal-rectangle) |
@@ -897,6 +899,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AnmolGithubx/DSA/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AnmolGithubx/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnmolGithubx/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
